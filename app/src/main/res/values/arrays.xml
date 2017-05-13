@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_amount_options">
+
+
+        <item>@string/a0</item>
+        <item>@string/a1</item>
+        <item>@string/a2</item>
+        <item>@string/a3</item>
+        <item>@string/a4</item>
+        <item>@string/a5</item>
+        <item>@string/a6</item>
+        <item>@string/a7</item>
+        <item>@string/a8</item>
+        <item>@string/a9</item>
+        <item>@string/a10</item>
+    </string-array>
+</resources>
